@@ -14,6 +14,7 @@ Personal Projects
 1. Triboelectric Nanogenerator undergraduate research project with Professor Chang-Hwan Choi 
 2. 2
 3. 3
+   
 Class Projects 
 - 1
 - 2
