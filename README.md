@@ -10,9 +10,11 @@
 
 > You will keep in perfect peace those whose minds are steadfast, because they trust in you. ~ Isaiah 26:3 
 
-1. 1
+Personal Projects 
+1. Triboelectric Nanogenerator undergraduate research project with Professor Chang-Hwan Choi 
 2. 2
 3. 3
+Class Projects 
 - 1
 - 2
 - 3
