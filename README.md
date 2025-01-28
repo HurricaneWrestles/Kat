@@ -10,10 +10,12 @@
 
 > You will keep in perfect peace those whose minds are steadfast, because they trust in you. ~ Isaiah 26:3 
 
-Most Important Things in my Life 
+Most Important Things in My Life 
 1. Faith
 2. Family
-3. Food 
+3. Health = Wealth 
+4. Personal Growth
+5. Self Discipline 
    
 My Interests 
 - Wrestling and Martial Arts 
