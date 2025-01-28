@@ -10,17 +10,19 @@
 
 > You will keep in perfect peace those whose minds are steadfast, because they trust in you. ~ Isaiah 26:3 
 
-Personal Projects 
-1. Triboelectric Nanogenerator undergraduate research project with Professor Chang-Hwan Choi 
-2. 2
-3. 3
+Most Important Things in my Life 
+1. Faith
+2. Family
+3. Food 
    
-Class Projects 
-- 1
-- 2
-- 3
+My Interests 
+- Wrestling and Martial Arts 
+- Hiking and Nature 
+- Health and Nutrition 
+- Physical Fitness
+- Dogs, Chickens, Honeybees, Goats, Gardening 
 
-'code'
+'printf(Life is amazing!)'
 
 [title](https://www.example.com)
 
