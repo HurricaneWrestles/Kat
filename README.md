@@ -24,7 +24,7 @@ My Interests
 - Physical Fitness
 - Dogs, Chickens, Honeybees, Goats, Gardening 
 
-'printf(Life is amazing!)'
+'printf(God's Plan > My Plan)'
 
 [My Resume](https://docs.google.com/document/d/1vjxhnl42bm_rAACBy3zCXyAo5cr5esPP6BfYQbIZAI4/edit?tab=t.0)
 
