@@ -26,6 +26,8 @@ My Interests
 
 'printf(God's Plan > My Plan)'
 
+[Google Site](https://sites.google.com/d/13dUHT0jOzLTpKVQc8C3x1JhRMX9eAb0j/p/1ePgJceRa7hdku__qx2xhOUfIrhIM1gld/edit?authuser=1)
+
 [My Resume](https://docs.google.com/document/d/1vjxhnl42bm_rAACBy3zCXyAo5cr5esPP6BfYQbIZAI4/edit?tab=t.0)
 
 ![](https://edgehoboken.com/wp-content/uploads/cache/2023/08/IMG_2669-e1693504653913/2080329645.jpg)
