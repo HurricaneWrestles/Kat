@@ -2,7 +2,7 @@
 ## Bachelor of Engineering Electrical Engineering 
 ### Master of Engineering Robotics 
 
-**Engineering Design IV EE322** 
+**Engineering Design VI EE322** 
 *Katrina Kling* 
 > Be on your guard; stand firm in the faith; be courageous; be strong. ~ 1 Corinthians 16:13
 
