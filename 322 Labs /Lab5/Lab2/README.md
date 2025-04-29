@@ -1,0 +1,12 @@
+![env](https://github.com/user-attachments/assets/359cc266-83fd-457d-abc4-feaa3e9c3eff)
+![ps](https://github.com/user-attachments/assets/acd18981-916f-47f4-a773-b80d6fe54313)
+![pwd](https://github.com/user-attachments/assets/6192794f-1e89-412b-9c22-2bc6ffd4e79a)
+![git_clone](https://github.com/user-attachments/assets/91fe4f91-7c03-4797-a7a4-bc291e7bb253)
+![iot_ls_cd_df](https://github.com/user-attachments/assets/ccb08958-dd2c-4f31-a47f-abd951722f63)
+![nano_cat_file](https://github.com/user-attachments/assets/58f8091b-b67b-429b-8e3a-b9bf84732012)
+![cp_mv_rm](https://github.com/user-attachments/assets/678d5028-9e7a-4507-911a-fb7ee72d9f44)
+![systeminfo](https://github.com/user-attachments/assets/df9f1c93-f969-445f-9dea-6a6f3d9eec5f)
+![ipconfig](https://github.com/user-attachments/assets/c03cad94-30a8-41c8-9bdc-0f409b42c340)
+![ping_localhost](https://github.com/user-attachments/assets/10dcec57-1b80-4762-bff2-1e03c463a66b)
+![netstat](https://github.com/user-attachments/assets/a701d717-e4bd-46b4-be47-5c8061755044)
+
