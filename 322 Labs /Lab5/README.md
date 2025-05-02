@@ -7,7 +7,7 @@ I already had python and Paho-MQTT installed, and then I set up the two terminal
 * git pull
 * cd lesson5
 
-Results After RUnning Each: 
+Results After Running Each: 
 ![lab5](https://github.com/user-attachments/assets/ac5c5ad2-a2b3-46b5-a00c-d2db709098c0)
 
 This image shows the data my terminal gave me related to my CPU from running the commands, and the terminal running the subcpu.py shows the printed data coming from the pubcpu.py terminal. 
